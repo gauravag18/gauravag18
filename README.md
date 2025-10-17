@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
-- 👨‍💻 All of my projects are available at [https://gauravxdev-sigma.vercel.app/](https://gauravxdev-sigma.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://gauravxdev-sigma.vercel.app/](https://gauravagarwalla.vercel.app/)
 
 - 📫 How to reach me **agarwalgaurav1809@gmail.com**
 
