@@ -10,11 +10,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- I'm a sophomore at VIT Chennai pursuing B.Tech in Computer Science, currently learning Agentic AI and looking to collaborate on full stack projects
+- I’m a Full Stack & Agentic AI Developer passionate about building intelligent, scalable applications that solve real-world problems. I specialize in creating modern web applications while also developing AI-powered agents, LLM applications, and workflow automation. I enjoy turning ideas into production ready products and continuously exploring new technologies in AI and software engineering.
 
-
-## 🧠 My Focus Areas
-- Agentic AI & Full Stack Development
 
 
 ## 📊 GitHub Stats & Trophies
